@@ -14,7 +14,9 @@
 9.	Меняем app/src/engine/license-store.js
 10.	Меняем app/src/engine/diagram-export.js
 11.	Меняем app/src/dialogs/license-activation-dialog.js
+
 Файлы есть в директории
 12.	Пишем в cmd: asar pack app app.asar
 13.	Пишем в cmd: cmd /c rmdir /s /q app
+
 Поздравляю, staruml крякнут.
