@@ -32,7 +32,7 @@ async function updateDialog($dlg) {
     trial: false,
     trialDaysLeft: 0,
     activated: true,
-    productDisplayName: "StarUML v7.0.0 PRO",
+    productDisplayName: "StarUML v7.1.0 PRO",
     name: "Licensed User",
     deviceId: "unlimited-device",
   };
