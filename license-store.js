@@ -11,7 +11,7 @@ class LicenseStore extends EventEmitter {
       name: "Licensed User",
       product: "staruml-v7",
       edition: "PRO",
-      productDisplayName: "StarUML v7.0.0",
+      productDisplayName: "StarUML v7.1.0",
       deviceId: "unlimited-device",
       licenseKey: "unlimited-license-key",
       activationCode: "unlimited-activation-code",
